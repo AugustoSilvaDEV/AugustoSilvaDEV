@@ -1,4 +1,4 @@
-# Olá, eu sou o Augusto Silva, desenvolvedor em formação! 👋
+# Olá, eu sou o Augusto Silva! 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Desenvolvedor+em+formação;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
