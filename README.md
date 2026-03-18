@@ -17,6 +17,14 @@
 
 ---
 
+## 👀 Visitantes do perfil
+![Profile Views](https://komarev.com/ghpvc/?username=AugustoSilvaDEV&color=00d9ff&style=for-the-badge&label=VISITANTES)
+
+---
+
+## 🐍 Minhas contribuições sendo devoradas
+![Snake animation](https://github.com/AugustoSilvaDEV/AugustoSilvaDEV/blob/output/github-contribution-grid-snake-dark.svg)
+
 ## 📊 Minhas estatísticas
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AugustoSilvaDEV&show_icons=true&theme=tokyonight&hide_border=true)
