@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=220&section=header&text=José%20Augusto&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Systems%20Developer%20%7C%20Turning%20coffee%20into%20code&descAlignY=60&descSize=18&descColor=39FF14)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1a1a2e,100:16213e&height=220&section=header&text=José%20Augusto&fontSize=60&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20%de%Sistemas%20%7C%Tranformando%20café%20em%20código&descAlignY=60&descSize=18&descColor=39FF14)
 
 </div>
 
@@ -59,8 +59,8 @@ dev = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/jose-augusto-abreu-silva)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://augustosilvaDEV.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://www.linkedin.com/in/joseaugustoabreu/)
+[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=firefox&logoColor=00FF41)](https://augustosilvadev.github.io/myportifolioaugusto/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41)](https://github.com/AugustoSilvaDEV)
 
 </div>
@@ -77,12 +77,6 @@ dev = {
 
 </div>
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <div align="center">
@@ -94,7 +88,7 @@ dev = {
 <div align="center">
 
 ```
-> Thanks for visiting... now go build something! _
+>Obrigado por visitar... agora vá construir algo! _
 ```
 
 </div>
